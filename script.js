@@ -8,8 +8,8 @@ function startGame() {
 var redSquare = {
     width: 20,
     height: 20,
-    x: 10,
-    y: 120,
+    x: 240,
+    y: 240,
     color: "red"
       };
 
